@@ -1,4 +1,3 @@
-# HR Analytics dashboard- Power BI
 # 🧑‍💼 HR Analytics Dashboard – Employee Headcount, Retention & Turnover Analysis
 
 ## 📌 Project Overview  
